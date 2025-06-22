@@ -1,7 +1,7 @@
 {
   "gamesJson" : [
     {"id": 1, "name": "Red Dead Redemption 2", "price": 12000, "category": "Aventura", "stock": 0,
-      "images": ["./src/assets/img/rdr2.jpg","/src/assets/img/rdr2_1.jpeg","/src/assets/img/rdr2_2.jpeg","/src/assets/img/rdr2_3.jpg"],
+      "images": ["/assets/img/rdr2.jpg","/src/assets/img/rdr2_1.jpeg","/src/assets/img/rdr2_2.jpeg","/src/assets/img/rdr2_3.jpg"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius urna nec blandit tincidunt. In maximus vel risus sit amet."},
     {"id": 2, "name": "God of War: Vallhala", "price": 15000, "category": "Aventura", "stock": 5,
       "images": ["/src/assets/img/gowv.webp","/src/assets/img/gowv_1.webp","/src/assets/img/gowv_2.webp","/src/assets/img/gowv_3.jpg"],
