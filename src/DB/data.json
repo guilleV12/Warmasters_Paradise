@@ -25,7 +25,7 @@
       "images": ["/src/assets/img/nba2k.jpg","/src/assets/img/nba2k_1.jpg","/src/assets/img/nba2k_2.avif","/src/assets/img/nba2k_3.jpg"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius urna nec blandit tincidunt. In maximus vel risus sit amet."},
     {"id": 9, "name": "Madden 2k24", "price": 14000, "category": "Deportes", "stock": 5,
-      "images": ["/src/assets/img/madden.avif","/src/assets/img/madden_1.jpg","/src/assets/img/madden_2.webp","/src/assets/img/madden_3.webp"],
+      "images": ["./assets/img/madden.avif","./assets/img/madden_1.jpg","./assets/img/madden_2.webp","./assets/img/madden_3.webp"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius urna nec blandit tincidunt. In maximus vel risus sit amet."}
     ]
 }
