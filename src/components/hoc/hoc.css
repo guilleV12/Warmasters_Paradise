@@ -1,0 +1,59 @@
+.buscador-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  padding: 20px;
+  margin-left: 60px;
+  margin-top: 80px;
+  width: 20%;
+  height: 200px;
+  background-color: rgba(128, 128, 128, 0.226);
+  backdrop-filter: blur(10px);
+  border: none;
+  border-radius: 3px;
+}
+.spinner{
+  position: fixed;
+  z-index: 10;
+  top: 30%;
+  left: 42%;
+}
+.buscador-juegos{
+  width: 100%;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 10px;
+}
+.buscador-juegos:focus{
+  outline: none;
+}
+.buscador-title{
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: white;
+}
+.ordenar-container{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.ordenar-precio{
+  width: 82px;
+  height: 23px;
+  background-color: blueviolet;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: font-size 0.15s;
+}
+.ordenar-precio:hover{
+  font-size: 13px;
+}
+.ordenar-precio:active{
+  font-size: 14px;
+}

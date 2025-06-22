@@ -1,0 +1,7 @@
+.active-link{
+  color: white;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+  transition: text-decoration 0.15s, text-underline-offset 0.15s, text-decoration-thickness 0.15s;
+  border-bottom: 2px solid white;
+}

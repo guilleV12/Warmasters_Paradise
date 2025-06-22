@@ -1,0 +1,75 @@
+.btn-borrar-juego{
+  height: 40px;
+  width: 100px;
+  color: white;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: 3px;
+  background-color: blueviolet;
+  cursor: pointer;
+  transition: font-size 0.15s;
+}
+.btn-borrar-juego:hover{
+  font-size: 12px;
+}
+.btn-borrar-juego:active{
+  font-size: 13px;
+}
+.delete-count-container{
+  display: flex;
+  width: 190px;
+  justify-content: space-around;
+}
+.delete-count{
+  display: flex;
+  height: 40px;
+  width: 40%;
+  background-color: white;
+  border: none;
+  border-radius: 3px;
+  justify-content: space-around;
+  align-items: center;
+}
+.delete-btn-count{
+  height: 20px;
+  width: 20px;
+  font-weight: 600;
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: font-size 0.15s;
+}
+.delete-btn-count:hover{
+  font-size: 11px;
+}
+.delete-btn-count:active{
+  font-size: 13px;
+}
+.delete-counter-count{
+  color: black;
+  font-weight: 600;
+  width: 15px;
+  display: flex;
+  justify-content: center;
+}
+.btn-borrar-count-juegos{
+  height: 40px;
+  width: 40%;
+  color: white;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border: none;
+  border-radius: 3px;
+  background-color: blueviolet;
+  cursor: pointer;
+  transition: font-size 0.15s;
+}
+.btn-borrar-count-juegos:hover{
+  font-size: 12px;
+}
+.btn-borrar-count-juegos:active{
+  font-size: 13px;
+}

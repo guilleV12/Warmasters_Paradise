@@ -1,0 +1,48 @@
+#carrito-container{
+  width: fit-content;
+  height: fit-content;
+  padding-bottom: 4px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  position: relative;
+}
+.cartwidget-img-vacio{
+  height: 37px;
+  opacity: 0.5;
+  transition: height 0.15s;
+}
+.cartwidget-img{
+  height: 37px;
+  transition: height 0.15s;
+}
+.contador-prods{
+  position: absolute;
+  color: white;
+  font-size: 15px;
+  top: -16px;
+  right: 0px;
+  transition: font-size 0.15s, top 0.15s;
+}
+.cartwidget-img:hover{
+  height: 39px;
+  cursor: pointer;
+}
+.cartwidget-img:active{
+  height: 37px;
+}
+.cartwidget-img:hover ~ .contador-prods{
+  font-size: 17px;
+  top: -17px;
+}
+.cartwidget-img:active ~ .contador-prods{
+  font-size: 15px;
+  top: -16px;
+}
+.cartwidget-img-vacio:hover{
+  height: 39px;
+  cursor: pointer;
+}
+.cartwidget-img-vacio:active{
+  height: 37px;
+}
