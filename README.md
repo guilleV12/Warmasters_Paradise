@@ -1,28 +1,44 @@
-<h1 align="center">React Practice Project =><a href='https://warmastersparadise.netlify.app/'>"Warmasters Paradise"</a><= </h1>
-<br>
-<div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactjs" />
-  </div>
-</div>
+# 🛍️ E-commerce React App
 
-<h2 align='center'>Description / Descripción</h2>
+Aplicación de comercio electrónico construida con **React**. Permite navegar productos, agregarlos al carrito, realizar una compra simulada y almacenar la información en **Firebase**. Cuenta con una interfaz moderna, responsive y funcionalidades completas.
 
-This is a "Webmasters paradise", a react js project created for practice.
+---
 
-<h2 align='center'>Tech Stack / Tecnologías</h2>
+## 🚀 Tecnologías usadas
 
-- React.js  
-- Toastify  
-- Sweetalerts
-- Firebase
-- Vite   
+- ⚛️ **React** (con Vite)
+- 🔄 **React Router DOM** – navegación tipo SPA
+- 🔥 **Firebase** – Firestore (DB) & Auth (opcional)
+- 🌐 **Netlify** – Deploy
+- 💅 **CSS modular / personalizado** – Diseño responsive
+- 🧠 **HOC (High Order Components)** – Componentes reutilizables
+- 🍞 **React Toastify** – Notificaciones
+- 💬 **SweetAlert2** – Alertas amigables
+- 🔃 **Async/Await** – Manejo de datos asíncronos
 
-<h2 align='center'>Features / Funcionalidades</h2>
+---
 
-**Completely Responsive**  
-Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.  
-**Totalmente responsivo**  
-Accesibilidad garantizada y visualización óptima en cualquier dispositivo gracias a un diseño adaptable.
+## 📦 Funcionalidades
 
-<h2 align='center'>Guillermo Vera - Front End - Web Dev</h2>
+- ✅ Listado de productos por categoría
+- ✅ Vista de detalle individual
+- ✅ Carrito de compras persistente
+- ✅ Checkout con formulario validado
+- ✅ Guardado de órdenes en Firebase
+- ✅ Estados de carga y errores controlados
+- ✅ Notificaciones de acciones (Toastify & SweetAlerts)
+- ✅ SPA completa (sin recargas)
+- ✅ Diseño adaptado a dispositivos móviles
+
+---
+
+## 🌍 Deploy
+La app está desplegada en:
+https://warmastersparadise.netlify.app/
+
+---
+
+## 🧑‍💻 Autor
+Desarrollado por Guillermo Vera
+📧 veraguillermo345@gmail.com
+📍 Argentina
