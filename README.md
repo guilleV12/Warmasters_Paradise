@@ -34,11 +34,11 @@ Aplicación de comercio electrónico construida con **React**. Permite navegar p
 
 ## 🌍 Deploy
 La app está desplegada en:
-https://warmastersparadise.netlify.app/
+- https://warmastersparadise.netlify.app/
 
 ---
 
 ## 🧑‍💻 Autor
-Desarrollado por Guillermo Vera
-📧 veraguillermo345@gmail.com
-📍 Argentina
+- Desarrollado por Guillermo Vera
+- 📧 veraguillermo345@gmail.com
+- 📍 Argentina
